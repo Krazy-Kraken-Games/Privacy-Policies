@@ -1,18 +1,18 @@
 # Privacy Policy
 
 **Effective date:** 21 February 2026  
-**Game/App name:** [YOUR GAME NAME]  
-**Developer/Publisher:** [YOUR NAME / STUDIO NAME] (“we”, “us”)  
-**Contact email:** [YOUR SUPPORT EMAIL]
+**Game/App name:** Chef's Bubble Feast  
+**Developer/Publisher:** Krazy Kraken Games (“we”, “us”)  
+**Contact email:** krazykrakenstudios@gmail.com
 
-This Privacy Policy explains how we handle information when you use **[YOUR GAME NAME]** (the “Game”).
+This Privacy Policy explains how we handle information when you use **Chef's Bubble Feast** (the “Game”).
 
 ---
 
 ## 1) Summary
 - **We do not sell your personal data.**
 - The Game may use **platform services** (e.g., Steam, Apple, Google) and **optional third-party SDKs** (e.g., analytics, crash reporting, ads) depending on your build and distribution.
-- If you want us to delete any data we directly control (if any), contact us at **[YOUR SUPPORT EMAIL]**.
+- If you want us to delete any data we directly control (if any), contact us at ** krazykrakenstudios@gmail.com**.
 
 > **Important:** If you use analytics, ads, crash reporting, account login, cloud saves, multiplayer, or any external service, keep the relevant sections below and fill in the placeholders. If you do **not** use a section, you can delete it.
 
