@@ -1,0 +1,71 @@
+---
+title: Delete Player Account & Data
+description: How to delete your player account and associated data for <YOUR GAME NAME>.
+---
+
+# Delete Player Account & Data
+
+This page explains how to delete your **player account** and any **associated data** for **<YOUR GAME NAME>**.
+
+If you delete the app, you can still use this page to understand how deletion works and how to request help.
+
+---
+
+## Delete your account in the game (recommended)
+
+1. Open **Chef's Bubble Feast**
+2. Go to **Settings**
+3. Select **Delete Player Account**
+4. Confirm the deletion prompt
+
+After confirmation, the game will start the deletion process for your account and associated data.
+
+---
+
+## What data is deleted
+
+When you use **Settings → Delete Player Account**, we delete:
+
+- Your in-game player account identifier (used to sign you in)
+- Your game profile data associated with that account (for example: progress, save data, inventory, settings)  
+  *(Only include items your game actually stores.)*
+
+---
+
+## What data may be retained (if applicable)
+
+Some data may be retained only when required (for example: legal, security, fraud prevention, or payment records).
+
+If this applies to your game, list specifics here. If it does **not** apply, remove this section.
+
+---
+
+## How long deletion takes
+
+- **In-game deletion:** typically completed within **<X> days**  
+  *(Pick a realistic number for your backend/support process.)*
+
+If you reinstall the game later, the deleted account cannot be restored.
+
+---
+
+## Trouble deleting in-app?
+
+If you can’t access the game (for example, you uninstalled it or the device is unavailable), you can request deletion by contacting us:
+
+- Email: **krazykrakenstudios@gmail.com**
+- Subject: **Account deletion request**
+- Please include (if possible):
+  - Your **Player ID / Account ID** shown in the game (if you still have access)
+  - Your device platform (**Android / iOS / PC**)  
+  - Approximate last login date
+
+We may ask for additional information to verify the request and protect your account.
+
+---
+
+## Contact
+
+Support: **krazykrakenstudios@gmail.com**
+
+Last updated: **28th February 2026**
