@@ -1,11 +1,4 @@
 <!doctype html>
-<!--
-  Quit Munchies website page (support.html). Self-contained: no other files needed.
-  Keep privacy.html, terms.html and support.html together in one folder; the menu links between them.
-  Before publishing, replace the highlighted placeholders (search for "[" in this file):
-    [YOUR NAME OR COMPANY], [CONTACT EMAIL]
-  Then you can delete this comment.
--->
 <html lang="en">
 <head>
 <meta charset="utf-8">
@@ -51,6 +44,8 @@
             padding: 14px 22px; border-radius: 14px; margin: 6px 0 4px; }
   .card { background: var(--card); border: 1px solid var(--line); border-radius: 16px; padding: 4px 20px 12px; margin: 14px 0; }
   .card h3 { font-size: 18px; margin: 14px 0 4px; }
+  .maker { display: flex; align-items: center; gap: 10px; margin-top: 18px; color: var(--muted); font-size: 15px; }
+  .maker img { width: 32px; height: 32px; border-radius: 8px; }
 </style>
 </head>
 <body>
@@ -64,8 +59,8 @@
 
   <section class="summary">
     <h2>Email us</h2>
-    <p><a class="button" href="mailto:[CONTACT EMAIL]?subject=Quit%20Munchies%20support">Email support</a></p>
-    <p style="margin-top:4px">Or write to <mark>[CONTACT EMAIL]</mark>. It helps to include your iPhone model, iOS version and the app version (Settings › About in the app). A screenshot is even better.</p>
+    <p><a class="button" href="mailto:amorielapps@gmail.com?subject=Quit%20Munchies%20support">Email support</a></p>
+    <p style="margin-top:4px">Or write to <a href="mailto:amorielapps@gmail.com">amorielapps@gmail.com</a>. It helps to include your iPhone model, iOS version and the app version (Settings › About in the app). A screenshot is even better.</p>
   </section>
 
   <h2>Quick answers</h2>
@@ -106,7 +101,8 @@
   </div>
 
   <footer>
-    <p>Quit Munchies is made by <mark>[YOUR NAME OR COMPANY]</mark>. · <a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>
+    <p><a href="privacy.html">Privacy Policy</a> · <a href="terms.html">Terms of Use</a></p>
+    <p class="maker"><img src="amoriel-logo.png" alt="Amoriel Apps logo"> Quit Munchies is made by Amoriel Apps</p>
   </footer>
 </main>
 </body>
